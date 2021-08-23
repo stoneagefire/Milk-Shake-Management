@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Chocolate Milk",
+            "type": "base",
+            "price": 100,
+            "available_quantity": 5
+        },
+        {
+            "id": 2,
+            "name": "Kesar Milk",
+            "type": "base",
+            "price": 120,
+            "available_quantity": 7
+        },
+        {
+            "id": 3,
+            "name": "Faluda Milk",
+            "type": "base",
+            "price": 110,
+            "available_quantity": 6
+        },
+        {
+            "id": 4,
+            "name": "Icecream Scoop",
+            "type": "addon",
+            "price": 50,
+            "available_quantity": 9
+        },
+        {
+            "id": 5,
+            "name": "Rose Petals",
+            "type": "addon",
+            "price": 25,
+            "available_quantity": 8
+        },
+        {
+            "id": 6,
+            "name": "Chocolate chips",
+            "type": "addon",
+            "price": 20,
+            "available_quantity": 2
+        },
+        {
+            "id": 7,
+            "name": "Oreo Biscuit",
+            "type": "addon",
+            "price": 30,
+            "available_quantity": 5
+        }
+    ]
+}

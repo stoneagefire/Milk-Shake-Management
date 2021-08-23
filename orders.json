@@ -1,0 +1,27 @@
+{
+    "orders": [
+        {
+            "order 0": [
+                {
+                    "item 1": {
+                        "id": 1,
+                        "name": "Chocolate Milk",
+                        "type": "base",
+                        "price": 100,
+                        "quantity": 1
+                    },
+                    "item 2": {
+                        "id": 6,
+                        "name": "Chocolate chips",
+                        "type": "addon",
+                        "price": 20,
+                        "quantity": 2
+                    }
+                },
+                {
+                    "total": 140
+                }
+            ]
+        }
+    ]
+}
