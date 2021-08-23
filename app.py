@@ -389,11 +389,9 @@ if __name__ == '__main__':
         if ch == 1:
             print("Create order section")
             order_string()
-            # stock_info()
-
+            
         elif ch == 2:
             view_summary()
-            print("View Statistics section ")
         
         elif ch == 3:
             print("Thank you for visiting Milk shake shop")
